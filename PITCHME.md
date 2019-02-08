@@ -1,6 +1,5 @@
+@title[Bootstrap 101]
 
 ## Bootstrap 101!
 
----
-
-## Slide Two
+<div class="btn btn-default">Hello</div>
