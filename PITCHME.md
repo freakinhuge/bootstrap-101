@@ -1,3 +1,6 @@
-@title[Bootstrap 101]
 
 ## Bootstrap 101!
+
+---
+
+## Slide Two
