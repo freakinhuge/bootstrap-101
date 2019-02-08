@@ -1,6 +1,6 @@
 @import url('https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css');
 
-.reveal * {
+.reveal div {
   all: unset;
 }
 
