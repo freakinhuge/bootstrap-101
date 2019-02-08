@@ -1,5 +1,5 @@
 published : true
-theme : simple
+theme : night
 theme-override : assets/css/main.css
 logo : assets/images/logo.png
 logo-position : top-left
