@@ -1,3 +1,12 @@
-logo : assets/images/bootstrap.jpeg
-footnote : "Bootstrap 101"
-theme: black
+published : true
+theme : simple
+theme-override : assets/css/main.css
+logo : assets/images/logo.png
+logo-position : top-left
+footnote : "Bootstrap - It's VERY nice..."
+highlight : atom-one-dark
+layout : center
+transition : none
+title : "Bootstrap 101"
+description : "An introduction to all things Bootstrap"
+thumbnail : assets/images/thumb.png
