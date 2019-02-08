@@ -1,6 +1,6 @@
 published : true
 theme : simple
-theme-override : assets/css/main.css
+theme-override : assets/css/custom.css
 logo : assets/images/logo.png
 logo-position : top-left
 footnote : "Bootstrap - It's VERY nice..."
