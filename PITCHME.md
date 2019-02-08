@@ -2,4 +2,4 @@
 
 ## Bootstrap 101!
 
-<div class="btn btn-default">Hello</div>
+<div class="btn btn-primary">I am a button</div>
