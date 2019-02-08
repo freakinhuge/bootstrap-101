@@ -1,8 +1,8 @@
-@import url('https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css');
-
 .reveal div {
   all: unset;
 }
+
+@import url('https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css');
 
 .footer-visible {
   box-sizing: initial;
