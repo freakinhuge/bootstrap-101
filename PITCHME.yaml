@@ -1,4 +1,3 @@
-theme : white
 theme-override : PITCHME.css
 logo : img/logo.png
 logo-position : top-left
