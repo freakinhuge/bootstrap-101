@@ -1,11 +1,8 @@
-published : true
-theme : simple
-theme-override : assets/css/custom.css
-logo : assets/images/logo.png
+theme-override : PITCHME.css
+logo : img/logo.png
 logo-position : top-left
 footnote : "Bootstrap - It's VERY nice..."
-highlight : atom-one-dark
 layout : center
 title : "Bootstrap 101"
 description : "An introduction to all things Bootstrap"
-thumbnail : assets/images/thumb.png
+thumbnail : img/thumb.png
