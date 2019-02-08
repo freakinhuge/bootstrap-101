@@ -7,3 +7,4 @@ layout : center
 title : "Bootstrap 101"
 description : "An introduction to all things Bootstrap"
 thumbnail : img/thumb.png
+published : true
