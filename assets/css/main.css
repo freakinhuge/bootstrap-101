@@ -1,1 +1,5 @@
-@import 'bootstrap/bootstrap.min.css'
+@import 'bootstrap/bootstrap.min.css';
+
+h2 {
+  color: #fefefe;
+}
