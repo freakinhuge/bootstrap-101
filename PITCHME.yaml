@@ -2,7 +2,7 @@ theme : white
 theme-override : PITCHME.css
 logo : img/logo.png
 logo-position : top-left
-footnote : "Bootstrap - It's VERY nice..."
+footnote : "Bootstrap 101"
 layout : center
 title : "Bootstrap 101"
 description : "An introduction to all things Bootstrap"
