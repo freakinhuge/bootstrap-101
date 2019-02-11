@@ -14,28 +14,28 @@
   (e.g., `.alert-success`).
 </p>
 
-<div class="alert alert-primary mx-4 text-left p-4 mb-3" role="alert">
+<div class="alert alert-primary mx-4 text-left p-3 mb-3" role="alert">
   A simple primary alert—check it out!
 </div>
-<div class="alert alert-secondary mx-4 text-left p-4 mb-3" role="alert">
+<div class="alert alert-secondary mx-4 text-left p-3 mb-3" role="alert">
   A simple secondary alert—check it out!
 </div>
-<div class="alert alert-success mx-4 text-left p-4 mb-3" role="alert">
+<div class="alert alert-success mx-4 text-left p-3 mb-3" role="alert">
   A simple success alert—check it out!
 </div>
-<div class="alert alert-danger mx-4 text-left p-4 mb-3" role="alert">
+<div class="alert alert-danger mx-4 text-left p-3 mb-3" role="alert">
   A simple danger alert—check it out!
 </div>
-<div class="alert alert-warning mx-4 text-left p-4 mb-3" role="alert">
+<div class="alert alert-warning mx-4 text-left p-3 mb-3" role="alert">
   A simple warning alert—check it out!
 </div>
-<div class="alert alert-info mx-4 text-left p-4 mb-3" role="alert">
+<div class="alert alert-info mx-4 text-left p-3 mb-3" role="alert">
   A simple info alert—check it out!
 </div>
-<div class="alert alert-light mx-4 text-left p-4 mb-3" role="alert">
+<div class="alert alert-light mx-4 text-left p-3 mb-3" role="alert">
   A simple light alert—check it out!
 </div>
-<div class="alert alert-dark mx-4 text-left p-4 mb-3" role="alert">
+<div class="alert alert-dark mx-4 text-left p-3 mb-3" role="alert">
   A simple dark alert—check it out!
 </div>
 
@@ -60,28 +60,28 @@
   within any alert.
 </p>
 
-<div class="alert alert-primary mx-4 text-left p-4" role="alert">
+<div class="alert alert-primary mx-4 text-left p-3 mb-3" role="alert">
   A simple primary alert with <a href="#" class="alert-link">an example link</a>. Give it a click if you like.
 </div>
-<div class="alert alert-secondary mx-4 text-left p-4" role="alert">
+<div class="alert alert-secondary mx-4 text-left p-3 mb-3" role="alert">
   A simple secondary alert with <a href="#" class="alert-link">an example link</a>. Give it a click if you like.
 </div>
-<div class="alert alert-success mx-4 text-left p-4" role="alert">
+<div class="alert alert-success mx-4 text-left p-3 mb-3" role="alert">
   A simple success alert with <a href="#" class="alert-link">an example link</a>. Give it a click if you like.
 </div>
-<div class="alert alert-danger mx-4 text-left p-4" role="alert">
+<div class="alert alert-danger mx-4 text-left p-3 mb-3" role="alert">
   A simple danger alert with <a href="#" class="alert-link">an example link</a>. Give it a click if you like.
 </div>
-<div class="alert alert-warning mx-4 text-left p-4" role="alert">
+<div class="alert alert-warning mx-4 text-left p-3 mb-3" role="alert">
   A simple warning alert with <a href="#" class="alert-link">an example link</a>. Give it a click if you like.
 </div>
-<div class="alert alert-info mx-4 text-left p-4" role="alert">
+<div class="alert alert-info mx-4 text-left p-3 mb-3" role="alert">
   A simple info alert with <a href="#" class="alert-link">an example link</a>. Give it a click if you like.
 </div>
-<div class="alert alert-light mx-4 text-left p-4" role="alert">
+<div class="alert alert-light mx-4 text-left p-3 mb-3" role="alert">
   A simple light alert with <a href="#" class="alert-link">an example link</a>. Give it a click if you like.
 </div>
-<div class="alert alert-dark mx-4 text-left p-4" role="alert">
+<div class="alert alert-dark mx-4 text-left p-3 mb-3" role="alert">
   A simple dark alert with <a href="#" class="alert-link">an example link</a>. Give it a click if you like.
 </div>
 
