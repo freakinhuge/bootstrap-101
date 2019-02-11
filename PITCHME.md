@@ -8,7 +8,7 @@
 
 ### Alerts
 
-<p class="default">
+<p>
   Alerts are available for any length of text, as well as an optional dismiss
   button. For proper styling, use one of the eight required contextual classes
   (e.g., `.alert-success`).
@@ -55,7 +55,7 @@
 
 ## Link color
 
-<p class="default">
+<p>
   Use the `.alert-link` utility class to quickly provide matching colored links
   within any alert.
 </p>
