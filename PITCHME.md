@@ -53,7 +53,7 @@
 
 +++
 
-## Link color
+### Link color
 
 <p>
   Use the `.alert-link` utility class to quickly provide matching colored links
@@ -101,7 +101,7 @@
 
 +++
 
-## Additional content
+### Additional content
 
 <p>
   Alerts can also contain additional HTML elements like headings, paragraphs
