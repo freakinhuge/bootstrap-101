@@ -7,3 +7,7 @@
 .btn {
   padding: .375rem .75rem !important;
 }
+
+#title-footer {
+  height: 4vh !important;
+}
