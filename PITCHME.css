@@ -18,4 +18,5 @@
 
 #title-footer {
   height: 4vh !important;
+  display: none !important;
 }
