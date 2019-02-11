@@ -1,6 +1,6 @@
 @import url('https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css');
 
-.alert, code, .reveal p {
+.alert, .reveal code, .reveal p {
   font-size: 24px !important;
 }
 
