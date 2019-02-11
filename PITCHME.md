@@ -39,7 +39,7 @@
 A simple primary alert—check it out!
 </div>
 
-```
+```html
 <div class="alert alert-primary" role="alert">
   A simple primary alert—check it out!
 </div>
