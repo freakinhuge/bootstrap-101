@@ -41,7 +41,7 @@
 
 +++
 
-<div class="alert alert-primary mx-4 text-left p-4" role="alert">
+<div class="alert alert-primary mx-4 text-left p-3 mb-3" role="alert">
   A simple primary alert—check it out!
 </div>
 
@@ -87,7 +87,7 @@
 
 +++
 
-<div class="alert alert-primary" role="alert">
+<div class="alert alert-primary mx-4 text-left p-3 mb-3" role="alert">
   A simple primary alert with <a href="#" class="alert-link">
   an example link</a>. Give it a click if you like.
 </div>
