@@ -1,5 +1,9 @@
 @import url('https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css');
 
+html, body {
+  font-size: 24px !important;
+}
+
 .btn {
   padding: .375rem .75rem !important;
 }
