@@ -1,7 +1,7 @@
 @import url('https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css');
 
 .btn {
-  padding: .375rem .75rem;
+  padding: .375rem .75rem !important;
 }
 
 p {
