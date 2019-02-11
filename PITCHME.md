@@ -9,9 +9,9 @@
 ### Alerts
 
 <p class="default">
-Alerts are available for any length of text, as well as an optional dismiss
-button. For proper styling, use one of the eight required contextual classes
-(e.g., `.alert-success`).
+  Alerts are available for any length of text, as well as an optional dismiss
+  button. For proper styling, use one of the eight required contextual classes
+  (e.g., `.alert-success`).
 </p>
 
 <div class="alert alert-primary" role="alert">
@@ -42,11 +42,57 @@ button. For proper styling, use one of the eight required contextual classes
 +++
 
 <div class="alert alert-primary" role="alert">
-A simple primary alert—check it out!
+  A simple primary alert—check it out!
 </div>
 
 ```html
 <div class="alert alert-primary" role="alert">
   A simple primary alert—check it out!
+</div>
+```
+
+---
+
+## Link color
+
+<p class="default">
+  Use the `.alert-link` utility class to quickly provide matching colored links
+  within any alert.
+</p>
+
+<div class="alert alert-primary" role="alert">
+  A simple primary alert with <a href="#" class="alert-link">an example link</a>. Give it a click if you like.
+</div>
+<div class="alert alert-secondary" role="alert">
+  A simple secondary alert with <a href="#" class="alert-link">an example link</a>. Give it a click if you like.
+</div>
+<div class="alert alert-success" role="alert">
+  A simple success alert with <a href="#" class="alert-link">an example link</a>. Give it a click if you like.
+</div>
+<div class="alert alert-danger" role="alert">
+  A simple danger alert with <a href="#" class="alert-link">an example link</a>. Give it a click if you like.
+</div>
+<div class="alert alert-warning" role="alert">
+  A simple warning alert with <a href="#" class="alert-link">an example link</a>. Give it a click if you like.
+</div>
+<div class="alert alert-info" role="alert">
+  A simple info alert with <a href="#" class="alert-link">an example link</a>. Give it a click if you like.
+</div>
+<div class="alert alert-light" role="alert">
+  A simple light alert with <a href="#" class="alert-link">an example link</a>. Give it a click if you like.
+</div>
+<div class="alert alert-dark" role="alert">
+  A simple dark alert with <a href="#" class="alert-link">an example link</a>. Give it a click if you like.
+</div>
+
+---
+
+<div class="alert alert-primary" role="alert">
+  A simple primary alert with <a href="#" class="alert-link">an example link</a>. Give it a click if you like.
+</div>
+
+```
+<div class="alert alert-primary" role="alert">
+  A simple primary alert with <a href="#" class="alert-link">an example link</a>. Give it a click if you like.
 </div>
 ```
