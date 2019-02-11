@@ -1,13 +1,9 @@
 @import url('https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css');
 
-.alert {
+.alert, code, .reveal p {
   font-size: 24px !important;
 }
 
 .btn {
   padding: .375rem .75rem !important;
-}
-
-p.default {
-  font-size: 24px !important;
 }
