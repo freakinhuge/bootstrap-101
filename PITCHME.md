@@ -1,6 +1,8 @@
+<div>
 <script>
   $('#theme').attr('disabled','disabled'):
 </script>
+</div>
 
 @title[Bootstrap 101]
 
