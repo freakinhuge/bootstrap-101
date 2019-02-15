@@ -1,6 +1,4 @@
-@title[Bootstrap 101]
-
-## Bootstrap 101!
+<h2>Bootstrap 101!</h2>
 
 <div
   onclick="$('#theme').attr('disabled','disabled');"
