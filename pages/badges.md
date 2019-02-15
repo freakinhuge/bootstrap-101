@@ -18,13 +18,20 @@
 
 +++
 
+<h2>
+Example heading <span class="badge badge-secondary px-3 py-1">New</span>
+</h2>
+<h3>
+Example heading <span class="badge badge-secondary px-3 py-1">New</span>
+</h3>
+<h4>
+Example heading <span class="badge badge-secondary px-3 py-1">New</span>
+</h4>
+
 ```html
-<h1>Example heading <span class="badge badge-secondary">New</span></h1>
 <h2>Example heading <span class="badge badge-secondary">New</span></h2>
 <h3>Example heading <span class="badge badge-secondary">New</span></h3>
 <h4>Example heading <span class="badge badge-secondary">New</span></h4>
-<h5>Example heading <span class="badge badge-secondary">New</span></h5>
-<h6>Example heading <span class="badge badge-secondary">New</span></h6>
 ```
 
 +++
@@ -34,7 +41,7 @@
 </p>
 
 <button type="button" class="btn btn-primary p-3">
-  Notifications <span class="badge badge-light px-3 py-1">4</span>
+  Notifications <span class="badge badge-light px-2 py-0">4</span>
 </button>
 
 ```html
