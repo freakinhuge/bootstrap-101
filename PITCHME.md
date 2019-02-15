@@ -1,8 +1,4 @@
-<div>
-<script>
-  $('#theme').attr('disabled','disabled'):
-</script>
-</div>
+---?include=js/overrides.js
 
 @title[Bootstrap 101]
 
