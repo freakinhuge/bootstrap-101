@@ -1,3 +1,4 @@
+<div class="text-center">
 <h2>Bootstrap 101!</h2>
 
 <div
@@ -7,6 +8,8 @@
   "
   class="btn btn-primary"
 >I am a button</div>
+</div>
 
 ---?include=pages/alerts.md
 ---?include=pages/badges.md
+
