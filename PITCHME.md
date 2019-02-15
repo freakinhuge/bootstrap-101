@@ -2,7 +2,9 @@
 
 <div
   onclick="
-    $('#theme').attr('disabled','disabled');"
+    $($('#theme').attr('disabled','disabled')[0].previousElementSibling)
+    .href('https://raw.githubusercontent.com/freakinhuge/bootstrap-101/master/css/reveal.css');
+  "
   class="btn btn-primary"
 >I am a button</div>
 

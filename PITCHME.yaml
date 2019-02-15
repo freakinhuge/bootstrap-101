@@ -1,5 +1,5 @@
 theme : white
-theme-override : PITCHME.css
+theme-override : css/custom.css
 logo : img/logo.png
 logo-position : top-left
 footnote : "Bootstrap 101"
