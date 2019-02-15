@@ -1,17 +1,5 @@
 @import url('https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css');
 
-.alert {
-  font-size: 18px !important;
-}
-
-.reveal p {
-  font-size: 22px !important;
-}
-
-.reveal code {
-  font-size: 18px !important;
-}
-
 #title-footer {
   height: 4vh !important;
   display: none !important;
