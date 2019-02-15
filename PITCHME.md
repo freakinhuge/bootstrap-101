@@ -1,6 +1,9 @@
 @title[Bootstrap 101]
 
-<script src="https://raw.githubusercontent.com/freakinhuge/bootstrap-101/master/js/overrides.js">
+<script type="text/javascript">
+$(document).ready(function() {
+  $('#theme').attr('disabled','disabled'):
+});
 </script>
 
 ## Bootstrap 101!

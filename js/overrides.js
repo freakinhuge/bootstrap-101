@@ -1,1 +1,0 @@
-$('#theme').attr('disabled','disabled'):
