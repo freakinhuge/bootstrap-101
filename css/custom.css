@@ -1,9 +1,5 @@
 @import url('https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css');
 
-.overrides {
-  content: url('https://raw.githubusercontent.com/freakinhuge/bootstrap-101/master/js/overrides.js');
-}
-
 .alert {
   font-size: 18px !important;
 }
@@ -14,10 +10,6 @@
 
 .reveal code {
   font-size: 18px !important;
-}
-
-.btn {
-  padding: .375rem .75rem !important;
 }
 
 #title-footer {
