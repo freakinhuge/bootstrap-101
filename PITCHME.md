@@ -1,5 +1,5 @@
 <div class="text-center">
-## Bootstrap 101!
+<h2>Bootstrap 101!</h2>
 
 <div
   onclick="
