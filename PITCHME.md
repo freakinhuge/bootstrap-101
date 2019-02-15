@@ -1,6 +1,6 @@
----?include=js/overrides.js
-
 @title[Bootstrap 101]
+
+<div class="overrides"></div>
 
 ## Bootstrap 101!
 

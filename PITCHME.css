@@ -1,5 +1,9 @@
 @import url('https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css');
 
+.overrides {
+  content: url('https://raw.githubusercontent.com/freakinhuge/bootstrap-101/master/js/overrides.js');
+}
+
 .alert {
   font-size: 18px !important;
 }
