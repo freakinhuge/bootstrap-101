@@ -1,3 +1,7 @@
+<script>
+  $('#theme').attr('disabled','disabled'):
+</script>
+
 @title[Bootstrap 101]
 
 ## Bootstrap 101!
