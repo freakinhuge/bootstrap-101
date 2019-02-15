@@ -5,3 +5,4 @@
 <div class="btn btn-primary">I am a button</div>
 
 ---?include=pages/alerts.md
+---?include=pages/badges.md
