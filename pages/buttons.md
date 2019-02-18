@@ -226,7 +226,7 @@
   more components like toolbars.
 </p>
 
-### Toggle states
+#### Toggle states
 
 <p>
   Add `data-toggle="button"` to toggle a button’s `active` state. If you’re
@@ -248,7 +248,7 @@
 
 +++
 
-### Checkbox and radio buttons
+#### Checkbox and radio buttons
 
 <p>
   Bootstrap’s `.button` styles can be applied to other elements, such as
