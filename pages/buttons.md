@@ -74,14 +74,16 @@
   background images and colors on any button.
 </p>
 
-<button type="button" class="btn btn-outline-primary">Primary</button>
-<button type="button" class="btn btn-outline-secondary">Secondary</button>
-<button type="button" class="btn btn-outline-success">Success</button>
-<button type="button" class="btn btn-outline-danger">Danger</button>
-<button type="button" class="btn btn-outline-warning">Warning</button>
-<button type="button" class="btn btn-outline-info">Info</button>
-<button type="button" class="btn btn-outline-light">Light</button>
-<button type="button" class="btn btn-outline-dark">Dark</button>
+<div class="mb-3">
+  <button type="button" class="btn btn-outline-primary">Primary</button>
+  <button type="button" class="btn btn-outline-secondary">Secondary</button>
+  <button type="button" class="btn btn-outline-success">Success</button>
+  <button type="button" class="btn btn-outline-danger">Danger</button>
+  <button type="button" class="btn btn-outline-warning">Warning</button>
+  <button type="button" class="btn btn-outline-info">Info</button>
+  <button type="button" class="btn btn-outline-light">Light</button>
+  <button type="button" class="btn btn-outline-dark">Dark</button>
+</div>
 
 ```html
 <button type="button" class="btn btn-outline-primary">Primary</button>
@@ -103,16 +105,20 @@
   sizes.
 </p>
 
-<button type="button" class="btn btn-primary btn-lg">Large button</button>
-<button type="button" class="btn btn-secondary btn-lg">Large button</button>
+<div class="mb-3">
+  <button type="button" class="btn btn-primary btn-lg">Large button</button>
+  <button type="button" class="btn btn-secondary btn-lg">Large button</button>
+</div>
 
 ```html
 <button type="button" class="btn btn-primary btn-lg">Large button</button>
 <button type="button" class="btn btn-secondary btn-lg">Large button</button>
 ```
 
-<button type="button" class="btn btn-primary btn-sm">Small button</button>
-<button type="button" class="btn btn-secondary btn-sm">Small button</button>
+<div class="mb-3">
+  <button type="button" class="btn btn-primary btn-sm">Small button</button>
+  <button type="button" class="btn btn-secondary btn-sm">Small button</button>
+</div>
 
 ```html
 <button type="button" class="btn btn-primary btn-sm">Small button</button>
@@ -124,12 +130,14 @@
   adding `.btn-block`.
 </p>
 
-<button type="button" class="btn btn-primary btn-lg btn-block">
-  Block level button
-</button>
-<button type="button" class="btn btn-secondary btn-lg btn-block">
-  Block level button
-</button>
+<div class="mb-3">
+  <button type="button" class="btn btn-primary btn-lg btn-block">
+    Block level button
+  </button>
+  <button type="button" class="btn btn-secondary btn-lg btn-block">
+    Block level button
+  </button>
+</div>
 
 ```html
 <button type="button" class="btn btn-primary btn-lg btn-block">Block level button</button>
@@ -166,8 +174,10 @@
   `<button>` element.
 </p>
 
-<button type="button" class="btn btn-lg btn-primary" disabled>Primary button</button>
-<button type="button" class="btn btn-secondary btn-lg" disabled>Button</button>
+<div class="mb-3">
+  <button type="button" class="btn btn-lg btn-primary" disabled>Primary button</button>
+  <button type="button" class="btn btn-secondary btn-lg" disabled>Button</button>
+</div>
 
 ```html
 <button type="button" class="btn btn-lg btn-primary" disabled>Primary button</button>
@@ -178,7 +188,7 @@
 
 <p>
   Disabled buttons using the `<a>` element behave a bit different:
-  <ol>
+  <ul>
     <li>
       `<a>`s don’t support the disabled attribute, so you must add the
       `.disabled` class to make it visually appear disabled.
@@ -192,15 +202,19 @@
       Disabled buttons should include the `aria-disabled="true"` attribute to
       indicate the state of the element to assistive technologies.
     </li>
-  </ol>
+  </ul>
 </p>
 
 <a href="#" class="btn btn-primary btn-lg disabled" tabindex="-1" role="button" aria-disabled="true">Primary link</a>
 <a href="#" class="btn btn-secondary btn-lg disabled" tabindex="-1" role="button" aria-disabled="true">Link</a>
 
 ```html
-<a href="#" class="btn btn-primary btn-lg disabled" tabindex="-1" role="button" aria-disabled="true">Primary link</a>
-<a href="#" class="btn btn-secondary btn-lg disabled" tabindex="-1" role="button" aria-disabled="true">Link</a>
+<a href="#" class="btn btn-primary btn-lg disabled" tabindex="-1" role="button" aria-disabled="true">
+  Primary link
+</a>
+<a href="#" class="btn btn-secondary btn-lg disabled" tabindex="-1" role="button" aria-disabled="true">
+  Link
+</a>
 ```
 
 +++
@@ -212,8 +226,6 @@
   more components like toolbars.
 </p>
 
-+++
-
 ### Toggle states
 
 <p>
@@ -222,9 +234,11 @@
   <strong>and</strong> `aria-pressed="true"` to the `<button>`.
 </p>
 
-<button type="button" class="btn btn-primary" data-toggle="button" aria-pressed="false" autocomplete="off">
-  Single toggle
-</button>
+<div class="mb-3">
+  <button type="button" class="btn btn-primary" data-toggle="button" aria-pressed="false" autocomplete="off">
+    Single toggle
+  </button>
+</div>
 
 ```html
 <button type="button" class="btn btn-primary" data-toggle="button" aria-pressed="false" autocomplete="off">
@@ -259,10 +273,12 @@
 
 +++
 
-<div class="btn-group-toggle" data-toggle="buttons">
-  <label class="btn btn-secondary active">
-    <input type="checkbox" checked autocomplete="off"> Checked
-  </label>
+<div class="mb-3">
+  <div class="btn-group-toggle" data-toggle="buttons">
+    <label class="btn btn-secondary active">
+      <input type="checkbox" checked autocomplete="off"> Checked
+    </label>
+  </div>
 </div>
 
 ```html
@@ -273,16 +289,18 @@
 </div>
 ```
 
-<div class="btn-group btn-group-toggle" data-toggle="buttons">
-  <label class="btn btn-secondary active">
-    <input type="radio" name="options" id="option1" autocomplete="off" checked> Active
-  </label>
-  <label class="btn btn-secondary">
-    <input type="radio" name="options" id="option2" autocomplete="off"> Radio
-  </label>
-  <label class="btn btn-secondary">
-    <input type="radio" name="options" id="option3" autocomplete="off"> Radio
-  </label>
+<div class="mb-3">
+  <div class="btn-group btn-group-toggle" data-toggle="buttons">
+    <label class="btn btn-secondary active">
+      <input type="radio" name="options" id="option1" autocomplete="off" checked> Active
+    </label>
+    <label class="btn btn-secondary">
+      <input type="radio" name="options" id="option2" autocomplete="off"> Radio
+    </label>
+    <label class="btn btn-secondary">
+      <input type="radio" name="options" id="option3" autocomplete="off"> Radio
+    </label>
+  </div>
 </div>
 
 ```html
