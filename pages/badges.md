@@ -3,6 +3,8 @@
 
 ##### Documentation and examples for badges, our small count and labeling component.
 
+<br>
+
 ### Examples
 
 <p>
