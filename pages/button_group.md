@@ -95,6 +95,25 @@
   </div>
 </div>
 
+```html
+<div class="btn-toolbar" role="toolbar" aria-label="Toolbar with button groups">
+  <div class="btn-group mr-2" role="group" aria-label="First group">
+    <button type="button" class="btn btn-secondary">1</button>
+    <button type="button" class="btn btn-secondary">2</button>
+    <button type="button" class="btn btn-secondary">3</button>
+    <button type="button" class="btn btn-secondary">4</button>
+  </div>
+  <div class="input-group">
+    <div class="input-group-prepend">
+      <div class="input-group-text" id="btnGroupAddon">@</div>
+    </div>
+    <input type="text" class="form-control" placeholder="Input group example" aria-label="Input group example" aria-describedby="btnGroupAddon">
+  </div>
+</div>
+```
+
++++
+
 <div class="btn-toolbar justify-content-between mb-3" role="toolbar" aria-label="Toolbar with button groups">
   <div class="btn-group" role="group" aria-label="First group">
     <button type="button" class="btn btn-secondary">1</button>
@@ -111,21 +130,6 @@
 </div>
 
 ```html
-<div class="btn-toolbar mb-3" role="toolbar" aria-label="Toolbar with button groups">
-  <div class="btn-group mr-2" role="group" aria-label="First group">
-    <button type="button" class="btn btn-secondary">1</button>
-    <button type="button" class="btn btn-secondary">2</button>
-    <button type="button" class="btn btn-secondary">3</button>
-    <button type="button" class="btn btn-secondary">4</button>
-  </div>
-  <div class="input-group">
-    <div class="input-group-prepend">
-      <div class="input-group-text" id="btnGroupAddon">@</div>
-    </div>
-    <input type="text" class="form-control" placeholder="Input group example" aria-label="Input group example" aria-describedby="btnGroupAddon">
-  </div>
-</div>
-
 <div class="btn-toolbar justify-content-between" role="toolbar" aria-label="Toolbar with button groups">
   <div class="btn-group" role="group" aria-label="First group">
     <button type="button" class="btn btn-secondary">1</button>
@@ -152,20 +156,26 @@
   multiple groups.
 </p>
 
-<div class="btn-group btn-group-lg" role="group">
-  <button type="button" class="btn btn-secondary">Left</button>
-  <button type="button" class="btn btn-secondary">Middle</button>
-  <button type="button" class="btn btn-secondary">Right</button>
+<div>
+  <div class="btn-group btn-group-lg" role="group">
+    <button type="button" class="btn btn-secondary">Left</button>
+    <button type="button" class="btn btn-secondary">Middle</button>
+    <button type="button" class="btn btn-secondary">Right</button>
+  </div>
 </div>
-<div class="btn-group" role="group">
-  <button type="button" class="btn btn-secondary">Left</button>
-  <button type="button" class="btn btn-secondary">Middle</button>
-  <button type="button" class="btn btn-secondary">Right</button>
+<div>
+  <div class="btn-group" role="group">
+    <button type="button" class="btn btn-secondary">Left</button>
+    <button type="button" class="btn btn-secondary">Middle</button>
+    <button type="button" class="btn btn-secondary">Right</button>
+  </div>
 </div>
-<div class="btn-group btn-group-sm" role="group">
-  <button type="button" class="btn btn-secondary">Left</button>
-  <button type="button" class="btn btn-secondary">Middle</button>
-  <button type="button" class="btn btn-secondary">Right</button>
+<div class="mb-3">
+  <div class="btn-group btn-group-sm" role="group">
+    <button type="button" class="btn btn-secondary">Left</button>
+    <button type="button" class="btn btn-secondary">Middle</button>
+    <button type="button" class="btn btn-secondary">Right</button>
+  </div>
 </div>
 
 ```html
@@ -200,7 +210,14 @@
   <button type="button" class="btn btn-secondary">2</button>
 
   <div class="btn-group" role="group">
-    <button id="btnGroupDrop1" type="button" class="btn btn-secondary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    <button
+      id="btnGroupDrop1"
+      type="button"
+      class="btn btn-secondary dropdown-toggle"
+      data-toggle="dropdown"
+      aria-haspopup="true"
+      aria-expanded="false"
+    >
       Dropdown
     </button>
     <div class="dropdown-menu" aria-labelledby="btnGroupDrop1">
@@ -237,15 +254,15 @@
 </p>
 
 <div class="btn-group-vertical mb-3" role="group">
-  <button type="button" class="btn btn-secondary">Left</button>
-  <button type="button" class="btn btn-secondary">Middle</button>
-  <button type="button" class="btn btn-secondary">Right</button>
+  <button type="button" class="btn btn-secondary">Top</button>
+  <button type="button" class="btn btn-secondary">Center</button>
+  <button type="button" class="btn btn-secondary">Bottom</button>
 </div>
 
 ```html
 <div class="btn-group-vertical" role="group">
-  <button type="button" class="btn btn-secondary">Left</button>
-  <button type="button" class="btn btn-secondary">Middle</button>
-  <button type="button" class="btn btn-secondary">Right</button>
+  <button type="button" class="btn btn-secondary">Top</button>
+  <button type="button" class="btn btn-secondary">Center</button>
+  <button type="button" class="btn btn-secondary">Bottom</button>
 </div>
 ```
