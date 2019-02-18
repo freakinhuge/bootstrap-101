@@ -12,7 +12,7 @@
   JavaScript radio and checkbox style behavior with the buttons plugin.
 </p>
 
-<div class="btn-group" role="group" aria-label="Basic example">
+<div class="btn-group mb-3" role="group" aria-label="Basic example">
   <button type="button" class="btn btn-secondary">Left</button>
   <button type="button" class="btn btn-secondary">Middle</button>
   <button type="button" class="btn btn-secondary">Right</button>
@@ -36,7 +36,7 @@
   more.
 </p>
 
-<div class="btn-toolbar" role="toolbar" aria-label="Toolbar with button groups">
+<div class="btn-toolbar mb-3" role="toolbar" aria-label="Toolbar with button groups">
   <div class="btn-group mr-2" role="group" aria-label="First group">
     <button type="button" class="btn btn-secondary">1</button>
     <button type="button" class="btn btn-secondary">2</button>
@@ -93,7 +93,7 @@
   </div>
 </div>
 
-<div class="btn-toolbar justify-content-between" role="toolbar" aria-label="Toolbar with button groups">
+<div class="btn-toolbar justify-content-between mb-3" role="toolbar" aria-label="Toolbar with button groups">
   <div class="btn-group" role="group" aria-label="First group">
     <button type="button" class="btn btn-secondary">1</button>
     <button type="button" class="btn btn-secondary">2</button>
@@ -150,14 +150,38 @@
   multiple groups.
 </p>
 
-<div class="btn-group btn-group-lg" role="group" aria-label="...">...</div>
-<div class="btn-group" role="group" aria-label="...">...</div>
-<div class="btn-group btn-group-sm" role="group" aria-label="...">...</div>
+<div class="btn-group btn-group-lg" role="group">
+  <button type="button" class="btn btn-secondary">Left</button>
+  <button type="button" class="btn btn-secondary">Middle</button>
+  <button type="button" class="btn btn-secondary">Right</button>
+</div>
+<div class="btn-group" role="group">
+  <button type="button" class="btn btn-secondary">Left</button>
+  <button type="button" class="btn btn-secondary">Middle</button>
+  <button type="button" class="btn btn-secondary">Right</button>
+</div>
+<div class="btn-group btn-group-sm" role="group">
+  <button type="button" class="btn btn-secondary">Left</button>
+  <button type="button" class="btn btn-secondary">Middle</button>
+  <button type="button" class="btn btn-secondary">Right</button>
+</div>
 
 ```html
-<div class="btn-group btn-group-lg" role="group" aria-label="...">...</div>
-<div class="btn-group" role="group" aria-label="...">...</div>
-<div class="btn-group btn-group-sm" role="group" aria-label="...">...</div>
+<div class="btn-group btn-group-lg" role="group">
+  <button type="button" class="btn btn-secondary">Left</button>
+  <button type="button" class="btn btn-secondary">Middle</button>
+  <button type="button" class="btn btn-secondary">Right</button>
+</div>
+<div class="btn-group" role="group">
+  <button type="button" class="btn btn-secondary">Left</button>
+  <button type="button" class="btn btn-secondary">Middle</button>
+  <button type="button" class="btn btn-secondary">Right</button>
+</div>
+<div class="btn-group btn-group-sm" role="group">
+  <button type="button" class="btn btn-secondary">Left</button>
+  <button type="button" class="btn btn-secondary">Middle</button>
+  <button type="button" class="btn btn-secondary">Right</button>
+</div>
 ```
 
 +++
@@ -169,7 +193,7 @@
   mixed with a series of buttons.
 </p>
 
-<div class="btn-group" role="group" aria-label="Button group with nested dropdown">
+<div class="btn-group mb-3" role="group" aria-label="Button group with nested dropdown">
   <button type="button" class="btn btn-secondary">1</button>
   <button type="button" class="btn btn-secondary">2</button>
 
@@ -210,7 +234,7 @@
   <strong>Split button dropdowns are not supported here.</strong>
 </p>
 
-<div class="btn-group-vertical" role="group">
+<div class="btn-group-vertical mb-3" role="group">
   <button type="button" class="btn btn-secondary">Left</button>
   <button type="button" class="btn btn-secondary">Middle</button>
   <button type="button" class="btn btn-secondary">Right</button>
