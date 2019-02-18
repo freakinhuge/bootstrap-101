@@ -1,5 +1,9 @@
 
-## Breadcrumb
+# Breadcrumb
+
+##### Indicate the current page’s location within a navigational hierarchy that automatically adds separators via CSS.
+
+### Examples
 
 <nav aria-label="breadcrumb">
   <ol class="breadcrumb">

@@ -1,5 +1,9 @@
 
-## Buttons
+# Buttons
+
+##### Use Bootstrap’s custom button styles for actions in forms, dialogs, and more with support for multiple sizes, states, and more.
+
+### Examples
 
 <p>
   Bootstrap includes several predefined button styles, each serving its own
@@ -219,7 +223,7 @@
 
 +++
 
-## Button plugin
+### Button plugin
 
 <p>
   Do more with buttons. Control button states or create groups of buttons for

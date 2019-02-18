@@ -1,12 +1,11 @@
 
 # Alerts
 
-##### Provide contextual feedback messages for typical user actions with the
-##### handful of available and flexible alert messages.
+##### Provide contextual feedback messages for typical user actions with the handful of available and flexible alert messages.
 
 +++
 
-#### Examples
+### Examples
 
 <p>
   Alerts are available for any length of text, as well as an optional dismiss
@@ -53,7 +52,7 @@
 
 +++
 
-#### Link color
+### Link color
 
 <p>
   Use the `.alert-link` utility class to quickly provide matching colored links
@@ -101,7 +100,7 @@
 
 +++
 
-#### Additional content
+### Additional content
 
 <p>
   Alerts can also contain additional HTML elements like headings, paragraphs
