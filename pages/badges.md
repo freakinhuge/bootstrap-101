@@ -1,5 +1,5 @@
 
-### Badges
+## Badges
 
 <p>
   Badges scale to match the size of the immediate parent element by using
