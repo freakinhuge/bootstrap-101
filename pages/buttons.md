@@ -101,7 +101,7 @@
 ### Sizes
 
 <p>
-  Fancy larger or smaller buttons? Add `.btn-lgi` or `.btn-sm` for additional
+  Fancy larger or smaller buttons? Add `.btn-lg` or `.btn-sm` for additional
   sizes.
 </p>
 
