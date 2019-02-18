@@ -1,5 +1,6 @@
 theme : white
 theme-override : css/custom.css
+highlight: github
 logo : img/logo.png
 logo-position : top-left
 footnote : "Bootstrap 101"
