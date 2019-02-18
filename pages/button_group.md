@@ -162,14 +162,14 @@
   multiple groups.
 </p>
 
-<div>
+<div class="mb-3">
   <div class="btn-group btn-group-lg" role="group">
     <button type="button" class="btn btn-secondary">Left</button>
     <button type="button" class="btn btn-secondary">Middle</button>
     <button type="button" class="btn btn-secondary">Right</button>
   </div>
 </div>
-<div>
+<div class="mb-3">
   <div class="btn-group" role="group">
     <button type="button" class="btn btn-secondary">Left</button>
     <button type="button" class="btn btn-secondary">Middle</button>
