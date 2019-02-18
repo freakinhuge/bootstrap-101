@@ -409,6 +409,8 @@
   </div>
 </div>
 
++++
+
 ```html
 <div class="row">
   <div class="col-sm-6">
@@ -468,6 +470,8 @@
     <a href="#" class="btn btn-primary">Button</a>
   </div>
 </div>
+
++++
 
 ```html
 <div class="card w-75 mb-3">
