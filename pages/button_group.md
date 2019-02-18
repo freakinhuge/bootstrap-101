@@ -141,7 +141,13 @@
     <div class="input-group-prepend">
       <div class="input-group-text" id="btnGroupAddon2">@</div>
     </div>
-    <input type="text" class="form-control" placeholder="Input group example" aria-label="Input group example" aria-describedby="btnGroupAddon2">
+    <input
+      type="text"
+      class="form-control"
+      placeholder="Input group example"
+      aria-label="Input group example"
+      aria-describedby="btnGroupAddon2"
+    >
   </div>
 </div>
 ```
