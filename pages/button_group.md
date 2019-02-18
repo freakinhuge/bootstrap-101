@@ -72,6 +72,8 @@
 </div>
 ```
 
++++
+
 <p>
   Feel free to mix input groups with button groups in your toolbars. Similar
   to the example above, you’ll likely need some utilities though to space
