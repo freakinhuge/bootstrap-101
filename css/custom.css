@@ -4,3 +4,7 @@
   height: 4vh !important;
   display: none !important;
 }
+
+.input-group > .form-control {
+  height: unset;
+}
