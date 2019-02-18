@@ -1,5 +1,5 @@
 <div class="text-center">
-<h2>Bootstrap 101!</h2>
+<h1>Bootstrap 101!</h1>
 
 <div
   onclick="
@@ -13,3 +13,4 @@
 ---?include=pages/alerts.md
 ---?include=pages/badges.md
 ---?include=pages/breadcrumb.md
+---?include=pages/buttons.md
