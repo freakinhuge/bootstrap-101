@@ -14,3 +14,4 @@
 ---?include=pages/badges.md
 ---?include=pages/breadcrumb.md
 ---?include=pages/buttons.md
+---?include=pages/button_group.md
