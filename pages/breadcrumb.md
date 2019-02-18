@@ -71,7 +71,7 @@ $breadcrumb-divider: quote(">");
 </p>
 
 ```scss
-$breadcrumb-divider: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI4IiBoZWlnaHQ9IjgiPjxwYXRoIGQ9Ik0yLjUgMEwxIDEuNSAzLjUgNCAxIDYuNSAyLjUgOGw0LTQtNC00eiIgZmlsbD0iY3VycmVudENvbG9yIi8+PC9zdmc+);
+$breadcrumb-divider: url(data:image/svg+xml;base64,PHN...dmc+);
 ```
 
 <p>
