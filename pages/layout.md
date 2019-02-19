@@ -24,15 +24,15 @@
 <div class="row justify-content-center mb-3 mx-0" style="height: 300px;">
   <div class="col-2 h-25"></div>
   <div class="col-8 h-25 pb-3 px-0">
-    <div class="bg-success rounded"></div>
+    <div class="bg-success rounded h-100"></div>
   </div>
   <div class="col-2 h-25"></div>
   <div class="col-2 h-75"></div>
   <div class="col-2 h-75 pl-0 pr-3">
-    <div class="bg-primary rounded"></div>
+    <div class="bg-primary rounded h-100"></div>
   </div>
   <div class="col-6 h-75 px-0">
-    <div class="bg-secondary rounded"></div>
+    <div class="bg-secondary rounded h-100"></div>
   </div>
   <div class="col-2 h-75"></div>
 </div>
@@ -52,13 +52,13 @@
 
 <div class="row justify-content-center mb-3 mx-0" style="height: 300px;">
   <div class="col-12 h-25 pb-3 px-0">
-    <div class="bg-success rounded"></div>
+    <div class="bg-success rounded h-100"></div>
   </div>
   <div class="col-2 h-75 pl-0 pr-3">
-    <div class="bg-primary rounded"></div>
+    <div class="bg-primary rounded h-100"></div>
   </div>
   <div class="col-10 h-75 px-0">
-    <div class="bg-secondary rounded"></div>
+    <div class="bg-secondary rounded h-100"></div>
   </div>
 </div>
 
