@@ -21,10 +21,20 @@
   nested container.
 </p>
 
-<div class="row justify-content-center mb-3" style="height: 300px;">
-  <div class="col-8 bg-success rounded mb-3"></div>
-  <div class="col-2 bg-primary rounded mr-3"></div>
-  <div class="col-6 bg-secondary rounded"></div>
+<div class="row justify-content-center mb-3 mx-0" style="height: 300px;">
+  <div class="col-2"></div>
+  <div class="col-8">
+    <div class="bg-success rounded mb-3"></div>
+  </div>
+  <div class="col-2"></div>
+  <div class="col-2"></div>
+  <div class="col-2">
+    <div class="bg-primary rounded mr-3"></div>
+  </div>
+  <div class="col-6">
+    <div class="bg-secondary rounded"></div>
+  </div>
+  <div class="col-2"></div>
 </div>
 
 ```html
