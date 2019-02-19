@@ -21,9 +21,9 @@
   nested container.
 </p>
 
-<div class="container">
-  <div class="d-flex bg-primary rounded h-50 w-25 mr-3"></div>
-  <div class="d-flex bg-secondary rounded h-50 w-75"></div>
+<div class="row" style="height: 500px;">
+  <div class="col-2 bg-primary rounded mr-3"></div>
+  <div class="col-10 bg-secondary rounded"></div>
 </div>
 
 ```html
