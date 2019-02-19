@@ -12,6 +12,7 @@
 
 ---?include=pages/introduction.md
 ---?include=pages/theming.md
+---?include=pages/layout.md
 ---?include=pages/alerts.md
 ---?include=pages/badges.md
 ---?include=pages/breadcrumb.md
