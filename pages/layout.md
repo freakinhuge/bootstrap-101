@@ -21,9 +21,10 @@
   nested container.
 </p>
 
-<div class="row" style="height: 500px;">
+<div class="row justify-content-center mb-3" style="height: 300px;">
+  <div class="col-8 bg-success rounded mb-3"></div>
   <div class="col-2 bg-primary rounded mr-3"></div>
-  <div class="col-10 bg-secondary rounded"></div>
+  <div class="col-6 bg-secondary rounded"></div>
 </div>
 
 ```html
@@ -39,9 +40,10 @@
   of the viewport.
 </p>
 
-<div class="container-fluid">
-  <div class="d-flex bg-primary rounded h-50 w-25 mr-3"></div>
-  <div class="d-flex bg-secondary rounded h-50 w-75"></div>
+<div class="row justify-content-center mb-3" style="height: 300px;">
+  <div class="col-11 bg-success rounded mb-3"></div>
+  <div class="col-2 bg-primary rounded mr-3"></div>
+  <div class="col-9 bg-secondary rounded"></div>
 </div>
 
 ```html
