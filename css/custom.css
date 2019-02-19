@@ -5,6 +5,10 @@
   display: none !important;
 }
 
+.form-control {
+  margin-bottom: 12px;
+}
+
 .input-group > .form-control {
   height: unset;
 }
