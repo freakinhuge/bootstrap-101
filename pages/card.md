@@ -149,7 +149,7 @@
   with the standard HTML tags.
 </p>
 
-<div class="card w-25">
+<div class="card mb-3 w-25">
   <img src="https://via.placeholder.com/286x180?text=Image%20cap"
     class="card-img-top">
   <div class="card-body">
