@@ -19,3 +19,4 @@
 ---?include=pages/buttons.md
 ---?include=pages/button_group.md
 ---?include=pages/card.md
+---?include=pages/forms.md
