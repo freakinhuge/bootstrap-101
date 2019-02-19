@@ -3,7 +3,7 @@
 
 #### Components and options for laying out your Bootstrap project, including wrapping containers, a powerful grid system, a flexible media object, and responsive utility classes.
 
-+++
+<br>
 
 ### Containers
 
@@ -70,7 +70,7 @@
 
 +++
 
-### Responsize breakpoints
+### Responsive breakpoints
 
 <p>
   Since Bootstrap is developed to be mobile first, a handful of media queries
@@ -84,7 +84,7 @@
   in the source Sass files for the layout, grid system, and components.
 </p>
 
-```css
+```scss
 // Extra small devices (portrait phones, less than 576px)
 // No media query for `xs` since this is the default in Bootstrap
 
@@ -133,7 +133,7 @@
   (the given screen size or smaller):
 </p>
 
-```css
+```scss
 // Extra small devices (portrait phones, less than 576px)
 @media (max-width: 575.98px) { ... }
 
@@ -178,7 +178,7 @@
   screen sizes using the minimum and maximum breakpoint widths.
 </p>
 
-```css
+```scss
 // Extra small devices (portrait phones, less than 576px)
 @media (max-width: 575.98px) { ... }
 
@@ -213,7 +213,7 @@
   Similarly, media queries may span multiple breakpoint widths:
 </p>
 
-```css
+```scss
 // Example
 // Apply styles starting from medium devices and up to extra large devices
 @media (min-width: 768px) and (max-width: 1199.98px) { ... }
@@ -255,8 +255,8 @@ $zindex-tooltip:           1070 !default;
 
 <p>
   To handle overlapping borders within components (e.g., buttons and inputs
-  in input groups), a low single digit z-index values of 1, 2, and 3 are used
-  for default, hover, and active states. On hover/focus/active, a particular
-  element is brought to the forefront with a higher z-index value to show
-  their border over the sibling elements.
+  in input groups), a low single digit z-index values of `1`, `2`, and `3` are
+  used for default, hover, and active states. On hover/focus/active, a
+  particular element is brought to the forefront with a higher z-index value to
+  show their border over the sibling elements.
 </p>
