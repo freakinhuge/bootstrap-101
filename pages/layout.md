@@ -22,19 +22,19 @@
 </p>
 
 <div class="row justify-content-center mb-3 mx-0" style="height: 300px;">
-  <div class="col-2"></div>
-  <div class="col-8">
-    <div class="bg-success rounded mb-3"></div>
+  <div class="col-2 h-25"></div>
+  <div class="col-8 h-25 pb-3 px-0">
+    <div class="bg-success rounded"></div>
   </div>
-  <div class="col-2"></div>
-  <div class="col-2"></div>
-  <div class="col-2">
-    <div class="bg-primary rounded mr-3"></div>
+  <div class="col-2 h-25"></div>
+  <div class="col-2 h-75"></div>
+  <div class="col-2 h-75 pl-0 pr-3">
+    <div class="bg-primary rounded"></div>
   </div>
-  <div class="col-6">
+  <div class="col-6 h-75 px-0">
     <div class="bg-secondary rounded"></div>
   </div>
-  <div class="col-2"></div>
+  <div class="col-2 h-75"></div>
 </div>
 
 ```html
@@ -50,10 +50,16 @@
   of the viewport.
 </p>
 
-<div class="row justify-content-center mb-3" style="height: 300px;">
-  <div class="col-11 bg-success rounded mb-3"></div>
-  <div class="col-2 bg-primary rounded mr-3"></div>
-  <div class="col-9 bg-secondary rounded"></div>
+<div class="row justify-content-center mb-3 mx-0" style="height: 300px;">
+  <div class="col-12 h-25 pb-3 px-0">
+    <div class="bg-success rounded"></div>
+  </div>
+  <div class="col-2 h-75 pl-0 pr-3">
+    <div class="bg-primary rounded"></div>
+  </div>
+  <div class="col-10 h-75 px-0">
+    <div class="bg-secondary rounded"></div>
+  </div>
 </div>
 
 ```html
