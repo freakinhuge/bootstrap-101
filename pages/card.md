@@ -497,6 +497,8 @@
 </div>
 ```
 
++++
+
 #### Using custom CSS
 
 <p>
@@ -536,7 +538,7 @@
   specific parts—with the text align classes.
 </p>
 
-<div class="card w-25">
+<div class="card mb-3 w-25">
   <div class="card-body">
     <h5 class="card-title">Special title treatment</h5>
     <p class="card-text">
@@ -546,7 +548,7 @@
   </div>
 </div>
 
-<div class="card text-center w-25">
+<div class="card text-center mb-3 w-25">
   <div class="card-body">
     <h5 class="card-title">Special title treatment</h5>
     <p class="card-text">
@@ -569,7 +571,7 @@
 +++
 
 ```html
-<div class="card w-25">
+<div class="card mb-3 w-25">
   <div class="card-body">
     <h5 class="card-title">Special title treatment</h5>
     <p class="card-text">
@@ -579,7 +581,7 @@
   </div>
 </div>
 
-<div class="card text-center w-25">
+<div class="card text-center mb-3 w-25">
   <div class="card-body">
     <h5 class="card-title">Special title treatment</h5>
     <p class="card-text">
@@ -637,6 +639,8 @@
     <a href="#" class="btn btn-primary">Go somewhere</a>
   </div>
 </div>
+
++++
 
 ```html
 <div class="card text-center">
@@ -699,6 +703,8 @@
     <a href="#" class="btn btn-primary">Go somewhere</a>
   </div>
 </div>
+
++++
 
 ```html
 <div class="card text-center">
