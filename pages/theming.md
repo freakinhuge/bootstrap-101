@@ -3,6 +3,8 @@
 
 #### Customize Bootstrap 4 with the new built-in Sass variables for global style preferences for easy theming and component changes.
 
+<br>
+
 ### Introduction
 
 <p>
