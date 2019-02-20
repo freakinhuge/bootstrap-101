@@ -1164,24 +1164,6 @@ You can modify the variables to your own custom values, or just use the mixins w
 
 +++
 
-<div class="example-container">
-  <div class="example-row">
-    <div class="example-content-main">Main content</div>
-    <div class="example-content-secondary">Secondary content</div>
-  </div>
-</div>
-
-```html
-<div class="example-container">
-  <div class="example-row">
-    <div class="example-content-main">Main content</div>
-    <div class="example-content-secondary">Secondary content</div>
-  </div>
-</div>
-```
-
-+++
-
 ## Customizing the grid
 
 Using our built-in grid Sass variables and maps, it's possible to completely customize the predefined grid classes. Change the number of tiers, the media query dimensions, and the container widths—then recompile.
