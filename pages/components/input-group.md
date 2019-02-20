@@ -65,6 +65,11 @@ Place one add-on or button on either side of an input. You may also place one on
   </div>
 </div>
 
+```
+
++++
+
+```html
 <label for="basic-url">Your vanity URL</label>
 <div class="input-group mb-3">
   <div class="input-group-prepend">
