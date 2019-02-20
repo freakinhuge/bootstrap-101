@@ -1,7 +1,7 @@
 
 # Badges
 
-##### Documentation and examples for badges, our small count and labeling component.
+#### Documentation and examples for badges, our small count and labeling component.
 
 <br>
 
