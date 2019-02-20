@@ -162,10 +162,10 @@ Set heights using classes like `.form-control-lg` and `.form-control-sm`.
 
 +++
 
-<select class="form-control form-control-lg">
+<select class="form-control form-control-lg mb-3">
   <option>Large select</option>
 </select>
-<select class="form-control">
+<select class="form-control mb-3">
   <option>Default select</option>
 </select>
 <select class="form-control form-control-sm">
