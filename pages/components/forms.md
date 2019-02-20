@@ -1113,14 +1113,16 @@ Help text below inputs can be styled with `.form-text`. This class includes `dis
 <label for="inputPassword5">Password</label>
 <input type="password" id="inputPassword5" class="form-control" aria-describedby="passwordHelpBlock">
 <small id="passwordHelpBlock" class="form-text text-muted">
-  Your password must be 8-20 characters long, contain letters and numbers, and must not contain spaces, special characters, or emoji.
+  Your password must be 8-20 characters long, contain letters and numbers,
+  and must not contain spaces, special characters, or emoji.
 </small>
 
 ```html
 <label for="inputPassword5">Password</label>
 <input type="password" id="inputPassword5" class="form-control" aria-describedby="passwordHelpBlock">
 <small id="passwordHelpBlock" class="form-text text-muted">
-  Your password must be 8-20 characters long, contain letters and numbers, and must not contain spaces, special characters, or emoji.
+  Your password must be 8-20 characters long, contain letters and numbers,
+  and must not contain spaces, special characters, or emoji.
 </small>
 ```
 
