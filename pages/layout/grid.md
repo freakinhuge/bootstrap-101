@@ -140,6 +140,8 @@ See how aspects of the Bootstrap grid system work across multiple devices with a
 
 Utilize breakpoint-specific column classes for easy column sizing without an explicit numbered class like `.col-sm-6`.
 
++++
+
 ### Equal-width
 
 For example, here are two grid layouts that apply to every device and viewport, from `xs` to `xl`. Add any number of unit-less classes for each breakpoint you need and every column will be the same width.
