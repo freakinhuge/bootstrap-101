@@ -3,7 +3,7 @@
 
 ##### Use the powerful mobile-first flexbox grid to build layouts of all shapes and sizes thanks to a twelve column system, five default responsive tiers, Sass variables and mixins, and dozens of predefined classes.
 
-<br>
++++
 
 ## How it works
 
@@ -1099,6 +1099,8 @@ To nest your content with the default grid, add a new `.row` and set of `.col-sm
   </div>
 </div>
 ```
+
++++
 
 ## Sass mixins
 
