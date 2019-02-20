@@ -6,6 +6,10 @@
   display: none !important;
 }
 
+.bd-example-row-flex-cols .row {
+  min-height: 10.7rem !important;
+}
+
 code {
   margin-bottom: 1rem;
   margin-top: 1rem;
