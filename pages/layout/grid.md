@@ -298,6 +298,8 @@ column.
 Use `col-{breakpoint}-auto` classes to size columns based on the natural width
 of their content.
 
++++
+
 <div class="bd-example-row">
 <div class="container">
   <div class="row justify-content-md-center">
