@@ -13,6 +13,7 @@
 ---?include=pages/getting-started/introduction.md
 ---?include=pages/getting-started/theming.md
 ---?include=pages/layout/overview.md
+---?include=pages/layout/grid.md
 ---?include=pages/components/alerts.md
 ---?include=pages/components/badges.md
 ---?include=pages/components/breadcrumb.md
