@@ -10,13 +10,13 @@
 <div class="btn btn-primary">I am a button</div>
 </div>
 
----?include=pages/introduction.md
----?include=pages/theming.md
----?include=pages/layout.md
----?include=pages/alerts.md
----?include=pages/badges.md
----?include=pages/breadcrumb.md
----?include=pages/buttons.md
----?include=pages/button_group.md
----?include=pages/card.md
----?include=pages/forms.md
+---?include=pages/getting-started/introduction.md
+---?include=pages/getting-started/theming.md
+---?include=pages/layout/overview.md
+---?include=pages/components/alerts.md
+---?include=pages/components/badges.md
+---?include=pages/components/breadcrumb.md
+---?include=pages/components/buttons.md
+---?include=pages/components/button-group.md
+---?include=pages/components/card.md
+---?include=pages/components/forms.md
