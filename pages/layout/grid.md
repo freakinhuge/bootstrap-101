@@ -875,6 +875,8 @@ Use `.order-` classes for controlling the **visual order** of your content. Thes
 </div>
 ```
 
++++
+
 There are also responsive `.order-first` and `.order-last` classes that change the `order` of an element by applying `order: -1` and `order: 13` (`order: $columns + 1`), respectively. These classes can also be intermixed with the numbered `.order-*` classes as needed.
 
 <div class="bd-example-row">
