@@ -21,3 +21,4 @@
 ---?include=pages/components/button-group.md
 ---?include=pages/components/card.md
 ---?include=pages/components/forms.md
+---?include=pages/components/input-group.md
