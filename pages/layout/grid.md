@@ -955,7 +955,8 @@ Move columns to the right using `.offset-md-*` classes. These classes increase t
 
 +++
 
-In addition to column clearing at responsive breakpoints, you may need to reset offsets. See this in action in [the grid example]({{ site.baseurl }}/docs/{{ site.docs_version }}/examples/grid/).
+In addition to column clearing at responsive breakpoints, you may need to
+reset offsets.
 
 <div class="bd-example-row">
 <div class="container">
