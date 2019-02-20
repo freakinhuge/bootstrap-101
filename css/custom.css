@@ -10,11 +10,3 @@ code {
   margin-bottom: 1rem;
   margin-top: 1rem;
 }
-
-.form-control {
-  margin-bottom: 12px;
-}
-
-.input-group > .form-control {
-  height: unset;
-}
