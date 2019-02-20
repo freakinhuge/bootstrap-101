@@ -147,6 +147,8 @@ Add the relative form sizing classes to the `.input-group` itself and contents w
   <input type="text" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-lg">
 </div>
 
++++
+
 ```html
 <div class="input-group input-group-sm mb-3">
   <div class="input-group-prepend">
@@ -328,7 +330,11 @@ Multiple add-ons are supported and can be mixed with checkbox and radio input ve
     <button class="btn btn-outline-secondary" type="button" id="button-addon2">Button</button>
   </div>
 </div>
+```
 
++++
+
+```html
 <div class="input-group mb-3">
   <div class="input-group-prepend" id="button-addon3">
     <button class="btn btn-outline-secondary" type="button">Button</button>
@@ -377,6 +383,8 @@ Multiple add-ons are supported and can be mixed with checkbox and radio input ve
     </div>
   </div>
 </div>
+
++++
 
 ```html
 <div class="input-group mb-3">
@@ -465,7 +473,11 @@ Multiple add-ons are supported and can be mixed with checkbox and radio input ve
   </div>
   <input type="text" class="form-control" aria-label="Text input with segmented dropdown button">
 </div>
+```
 
++++
+
+```html
 <div class="input-group">
   <input type="text" class="form-control" aria-label="Text input with segmented dropdown button">
   <div class="input-group-append">
@@ -483,6 +495,8 @@ Multiple add-ons are supported and can be mixed with checkbox and radio input ve
   </div>
 </div>
 ```
+
++++
 
 ## Custom forms
 
@@ -564,7 +578,11 @@ Input groups include support for custom selects and custom file inputs. Browser 
     <label class="input-group-text" for="inputGroupSelect02">Options</label>
   </div>
 </div>
+```
 
++++
+
+```html
 <div class="input-group mb-3">
   <div class="input-group-prepend">
     <button class="btn btn-outline-secondary" type="button">Button</button>
@@ -656,7 +674,11 @@ Input groups include support for custom selects and custom file inputs. Browser 
     <span class="input-group-text" id="inputGroupFileAddon02">Upload</span>
   </div>
 </div>
+```
 
++++
+
+```html
 <div class="input-group mb-3">
   <div class="input-group-prepend">
     <button class="btn btn-outline-secondary" type="button" id="inputGroupFileAddon03">Button</button>
