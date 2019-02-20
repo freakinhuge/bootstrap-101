@@ -755,6 +755,8 @@ Be sure to use `.col-form-label-sm` or `.col-form-label-lg` to your `<label>`s o
   </div>
 </form>
 
++++
+
 ```html
 <form>
   <div class="form-group row">
@@ -849,6 +851,8 @@ The example below uses a flexbox utility to vertically center the contents and c
   </div>
 </form>
 
++++
+
 ```html
 <form>
   <div class="form-row align-items-center">
@@ -912,6 +916,8 @@ You can then remix that once again with size-specific column classes.
     </div>
   </div>
 </form>
+
++++
 
 ```html
 <form>
@@ -1181,6 +1187,8 @@ Add the `disabled` attribute to a `<fieldset>` to disable all the controls withi
     <button type="submit" class="btn btn-primary">Submit</button>
   </fieldset>
 </form>
+
++++
 
 ```html
 <form>
