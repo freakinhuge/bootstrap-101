@@ -911,6 +911,8 @@ There are also responsive `.order-first` and `.order-last` classes that change t
 </div>
 ```
 
++++
+
 ### Offsetting columns
 
 You can offset grid columns in two ways: our responsive `.offset-` grid classes and our [margin utilities]({{ site.baseurl }}/docs/{{ site.docs_version }}/utilities/spacing/). Grid classes are sized to match columns while margins are more useful for quick layouts where the width of the offset is variable.
