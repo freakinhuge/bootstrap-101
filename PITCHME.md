@@ -2,7 +2,7 @@
 <h1>Bootstrap 101!</h1>
 
 <div
-  onclick="
+  onload="
     $($('#theme').attr('disabled','disabled')[0].previousElementSibling)
     .attr('href','https://rawcdn.githack.com/freakinhuge/bootstrap-101/d46e1a76a6401460b9019b28d0224d3b79cb663b/css/reveal.css');
   "
