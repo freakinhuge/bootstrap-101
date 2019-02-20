@@ -781,9 +781,7 @@ Breaking columns to a new line in flexbox requires a small hack: add an element 
   <div class="row">
     <div class="col-6 col-sm-3">.col-6 .col-sm-3</div>
     <div class="col-6 col-sm-3">.col-6 .col-sm-3</div>
-
     <div class="w-100"></div>
-
     <div class="col-6 col-sm-3">.col-6 .col-sm-3</div>
     <div class="col-6 col-sm-3">.col-6 .col-sm-3</div>
   </div>
@@ -807,16 +805,14 @@ Breaking columns to a new line in flexbox requires a small hack: add an element 
 
 +++
 
-You may also apply this break at specific breakpoints with our [responsive display utilities]({{ site.baseurl }}/docs/{{ site.docs_version }}/utilities/display/).
+You may also apply this break at specific breakpoints with the responsive display utilities.
 
 <div class="bd-example-row">
 <div class="container">
   <div class="row">
     <div class="col-6 col-sm-4">.col-6 .col-sm-4</div>
     <div class="col-6 col-sm-4">.col-6 .col-sm-4</div>
-
     <div class="w-100 d-none d-md-block"></div>
-
     <div class="col-6 col-sm-4">.col-6 .col-sm-4</div>
     <div class="col-6 col-sm-4">.col-6 .col-sm-4</div>
   </div>
