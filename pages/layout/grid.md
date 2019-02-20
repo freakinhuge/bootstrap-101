@@ -726,6 +726,8 @@ Here's the source code for creating these styles. Note that column overrides are
 }
 ```
 
++++
+
 In practice, here's how it looks. Note you can continue to use this with all other predefined grid classes (including column widths, responsive tiers, reorders, and more).
 
 <div class="bd-example-row">
@@ -780,7 +782,6 @@ Breaking columns to a new line in flexbox requires a small hack: add an element 
     <div class="col-6 col-sm-3">.col-6 .col-sm-3</div>
     <div class="col-6 col-sm-3">.col-6 .col-sm-3</div>
 
-    <!-- Force next columns to break to new line -->
     <div class="w-100"></div>
 
     <div class="col-6 col-sm-3">.col-6 .col-sm-3</div>
@@ -804,6 +805,8 @@ Breaking columns to a new line in flexbox requires a small hack: add an element 
 </div>
 ```
 
++++
+
 You may also apply this break at specific breakpoints with our [responsive display utilities]({{ site.baseurl }}/docs/{{ site.docs_version }}/utilities/display/).
 
 <div class="bd-example-row">
@@ -812,7 +815,6 @@ You may also apply this break at specific breakpoints with our [responsive displ
     <div class="col-6 col-sm-4">.col-6 .col-sm-4</div>
     <div class="col-6 col-sm-4">.col-6 .col-sm-4</div>
 
-    <!-- Force next columns to break to new line at md breakpoint and up -->
     <div class="w-100 d-none d-md-block"></div>
 
     <div class="col-6 col-sm-4">.col-6 .col-sm-4</div>
