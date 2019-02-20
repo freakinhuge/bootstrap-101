@@ -29,6 +29,8 @@ Here's a quick example to demonstrate Bootstrap's form styles. Keep reading for 
   <button type="submit" class="btn btn-primary">Submit</button>
 </form>
 
++++
+
 ```html
 <form>
   <div class="form-group">
@@ -157,6 +159,8 @@ Set heights using classes like `.form-control-lg` and `.form-control-sm`.
 <input class="form-control" type="text" placeholder="Default input">
 <input class="form-control form-control-sm" type="text" placeholder=".form-control-sm">
 ```
+
++++
 
 <select class="form-control form-control-lg">
   <option>Large select</option>
