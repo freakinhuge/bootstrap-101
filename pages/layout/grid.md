@@ -235,6 +235,8 @@ use predefined grid classes (as shown below), grid mixins, or inline widths.
 Note that the other columns will resize no matter the width of the center
 column.
 
++++
+
 <div class="bd-example-row">
 <div class="container">
   <div class="row">
