@@ -29,3 +29,4 @@
 ---?include=pages/utilities/borders.md
 ---?include=pages/utilities/clearfix.md
 ---?include=pages/utilities/close-icon.md
+---?include=pages/utilities/colors.md
