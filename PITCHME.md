@@ -31,3 +31,4 @@
 ---?include=pages/utilities/close-icon.md
 ---?include=pages/utilities/colors.md
 ---?include=pages/utilities/display.md
+---?include=pages/utilities/embed.md
