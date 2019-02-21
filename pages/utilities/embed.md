@@ -61,6 +61,8 @@ Aspect ratios can be customized with modifier classes. By default the following 
 </div>
 ```
 
++++
+
 Within `_variables.scss`, you can change the aspect ratios you want to use. Here's an example of the `$embed-responsive-aspect-ratios` list:
 
 ```scss

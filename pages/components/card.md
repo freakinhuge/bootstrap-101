@@ -47,6 +47,8 @@
   </div>
 </div>
 
++++
+
 ```html
 <div class="card w-25">
   <img src="https://via.placeholder.com/286x180?text=Image%20cap" class="card-img-top">
@@ -371,8 +373,6 @@
   otherwise stated. You can change this as needed with custom CSS, grid
   classes, grid Sass mixins, or utilities.
 </p>
-
-+++
 
 #### Using grid markup
 

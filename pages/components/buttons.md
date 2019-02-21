@@ -130,7 +130,9 @@
 <button type="button" class="btn btn-primary btn-sm">Small button</button>
 <button type="button" class="btn btn-secondary btn-sm">Small button</button>
 ```
-<br>
+
++++
+
 <p>
   Create block level buttons—those that span the full width of a parent—by
   adding `.btn-block`.
