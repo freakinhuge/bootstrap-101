@@ -3,7 +3,7 @@
 
 #### Bootstrap’s cards provide a flexible and extensible content container with multiple variants and options.
 
-<br>
++++
 
 ### About
 
@@ -15,8 +15,6 @@
   thumbnails. Similar functionality to those components is available as
   modifier classes for cards.
 </p>
-
-+++
 
 ### Examples
 
