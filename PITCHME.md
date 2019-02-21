@@ -41,3 +41,4 @@
 ---?include=pages/utilities/spacing.md
 ---?include=pages/utilities/stretched-link.md
 ---?include=pages/utilities/text.md
+---?include=pages/utilities/vertical-align.md
