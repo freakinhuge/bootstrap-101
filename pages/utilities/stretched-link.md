@@ -38,7 +38,7 @@ Multiple links and tap targets are not recommended with stretched links. However
 Media objects do not have `position: relative` by default, so we need to add the `.position-relative` here to prevent the link from stretching outside the media object.
 
 <div class="media position-relative">
-  <img src="https://via.placeholder.com/144x144?" class="mr-3" alt="...">
+  <img src="https://via.placeholder.com/144x144?text=" class="mr-3" alt="...">
   <div class="media-body">
     <h5 class="mt-0">Media with stretched link</h5>
     <p>
@@ -73,7 +73,7 @@ Columns are `position: relative` by default, so clickable columns only require t
 
 <div class="row no-gutters bg-light position-relative">
   <div class="col-md-6 mb-md-0 p-md-4">
-    <img src="https://via.placeholder.com/300x200?" class="w-100" alt="...">
+    <img src="https://via.placeholder.com/600x200?text=" class="w-100" alt="...">
   </div>
   <div class="col-md-6 position-static p-4 pl-md-0">
     <h5 class="mt-0">Columns with stretched link</h5>
@@ -90,7 +90,7 @@ Columns are `position: relative` by default, so clickable columns only require t
 ```html
 <div class="row no-gutters bg-light position-relative">
   <div class="col-md-6 mb-md-0 p-md-4">
-    <img src="https://via.placeholder.com/300x200?" class="w-100" alt="...">
+    <img src="https://via.placeholder.com/600x200?" class="w-100" alt="...">
   </div>
   <div class="col-md-6 position-static p-4 pl-md-0">
     <h5 class="mt-0">Columns with stretched link</h5>
@@ -118,8 +118,8 @@ If the stretched link doesn't seem to work, the [containing block](https://devel
 
 +++
 
-<div class="card" style="width: 18rem;">
-  <img src="https://via.placeholder.com/300x200?" class="card-img-top" alt="...">
+<div class="card w-25">
+  <img src="https://via.placeholder.com/300x200?text=" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">Card with stretched links</h5>
     <p class="card-text">
@@ -136,7 +136,7 @@ If the stretched link doesn't seem to work, the [containing block](https://devel
 </div>
 
 ```html
-<div class="card" style="width: 18rem;">
+<div class="card w-25">
   <img src="https://via.placeholder.com/300x200?" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">Card with stretched links</h5>
