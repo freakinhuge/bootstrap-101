@@ -33,3 +33,4 @@
 ---?include=pages/utilities/display.md
 ---?include=pages/utilities/embed.md
 ---?include=pages/utilities/flex.md
+---?include=pages/utilities/float.md
