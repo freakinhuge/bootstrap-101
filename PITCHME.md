@@ -28,3 +28,4 @@
 ---?include=pages/components/navbar.md
 ---?include=pages/utilities/borders.md
 ---?include=pages/utilities/clearfix.md
+---?include=pages/utilities/close-icon.md
