@@ -21,6 +21,8 @@ Wrap any embed like an `<iframe>` in a parent element with `.embed-responsive` a
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/dQw4w9WgXcQ?controls=0" allowfullscreen></iframe>
 </div>
 
++++
+
 ```html
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/dQw4w9WgXcQ?controls=0" allowfullscreen></iframe>
