@@ -18,12 +18,12 @@ Rules are directly applied to `<iframe>`, `<embed>`, `<video>`, and `<object>` e
 Wrap any embed like an `<iframe>` in a parent element with `.embed-responsive` and an aspect ratio. The `.embed-responsive-item` isn't strictly required, but we encourage it.
 
 <div class="embed-responsive embed-responsive-16by9">
-  ![Video](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/dQw4w9WgXcQ?controls=0" allowfullscreen></iframe>
 </div>
 
 ```html
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=dQw4w9WgXcQ" allowfullscreen></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/dQw4w9WgXcQ?controls=0" allowfullscreen></iframe>
 </div>
 ```
 
