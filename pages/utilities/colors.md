@@ -107,11 +107,11 @@ Similar to the contextual text color classes, easily set the background of an el
 
 When `$enable-gradients` is set to `true` (default is `false`), you can use `.bg-gradient-` utility classes.
 
-- .bg-gradient-primary
-- .bg-gradient-secondary
-- .bg-gradient-success
-- .bg-gradient-danger
-- .bg-gradient-warning
-- .bg-gradient-info
-- .bg-gradient-light
-- .bg-gradient-dark
+- `.bg-gradient-primary`
+- `.bg-gradient-secondary`
+- `.bg-gradient-success`
+- `.bg-gradient-danger`
+- `.bg-gradient-warning`
+- `.bg-gradient-info`
+- `.bg-gradient-light`
+- `.bg-gradient-dark`
