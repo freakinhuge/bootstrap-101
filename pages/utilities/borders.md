@@ -105,6 +105,8 @@ Add classes to an element to easily round its corners.
 <img src="" alt="" class="rounded-0">
 ```
 
++++
+
 ## Sizes
 
 Use `.rounded-lg` or `.rounded-sm` for larger or smaller border-radius.
