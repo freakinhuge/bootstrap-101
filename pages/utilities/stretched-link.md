@@ -135,6 +135,8 @@ If the stretched link doesn't seem to work, the [containing block](https://devel
   </div>
 </div>
 
++++
+
 ```html
 <div class="card w-25">
   <img src="https://via.placeholder.com/300x200?" class="card-img-top" alt="...">
