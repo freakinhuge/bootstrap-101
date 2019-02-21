@@ -95,14 +95,14 @@ Add classes to an element to easily round its corners.
 </div>
 
 ```html
-<img src="..." alt="..." class="rounded">
-<img src="..." alt="..." class="rounded-top">
-<img src="..." alt="..." class="rounded-right">
-<img src="..." alt="..." class="rounded-bottom">
-<img src="..." alt="..." class="rounded-left">
-<img src="..." alt="..." class="rounded-circle">
-<img src="..." alt="..." class="rounded-pill">
-<img src="..." alt="..." class="rounded-0">
+<img src="" alt="" class="rounded">
+<img src="" alt="" class="rounded-top">
+<img src="" alt="" class="rounded-right">
+<img src="" alt="" class="rounded-bottom">
+<img src="" alt="" class="rounded-left">
+<img src="" alt="" class="rounded-circle">
+<img src="" alt="" class="rounded-pill">
+<img src="" alt="" class="rounded-0">
 ```
 
 ## Sizes
@@ -115,6 +115,6 @@ Use `.rounded-lg` or `.rounded-sm` for larger or smaller border-radius.
 </div>
 
 ```html
-<img src="..." alt="..." class="rounded-sm">
-<img src="..." alt="..." class="rounded-lg">
+<img src="" alt="" class="rounded-sm">
+<img src="" alt="" class="rounded-lg">
 ```
