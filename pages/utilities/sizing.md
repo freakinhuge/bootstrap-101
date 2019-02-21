@@ -47,10 +47,10 @@ Width and height utilities are generated from the `$sizes` Sass map in `_variabl
 
 You can also use `max-width: 100%;` and `max-height: 100%;` utilities as needed.
 
-<div class="bg-grey text-center align-middle">Max-width 100%</div>
+<div class="bg-secondary p-3 text-center align-middle">Max-width 100%</div>
 
 ```html
-<img src="\..." class="mw-100" alt="...">
+<img src="https://via.placeholder.com/700x100?text=Max-width%20100%" class="mw-100" alt="...">
 ```
 
 <div style="height: 100px; background-color: rgba(255,0,0,0.1);">
