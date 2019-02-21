@@ -36,3 +36,4 @@
 ---?include=pages/utilities/float.md
 ---?include=pages/utilities/overflow.md
 ---?include=pages/utilities/position.md
+---?include=pages/utilities/shadows.md
