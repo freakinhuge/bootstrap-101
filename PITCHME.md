@@ -40,3 +40,4 @@
 ---?include=pages/utilities/sizing.md
 ---?include=pages/utilities/spacing.md
 ---?include=pages/utilities/stretched-link.md
+---?include=pages/utilities/text.md
