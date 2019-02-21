@@ -32,3 +32,4 @@
 ---?include=pages/utilities/colors.md
 ---?include=pages/utilities/display.md
 ---?include=pages/utilities/embed.md
+---?include=pages/utilities/flex.md
